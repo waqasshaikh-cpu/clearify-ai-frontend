@@ -1,0 +1,10 @@
+/* Basic global styles for Clearify.AI */
+body {
+  margin: 0;
+  font-family: 'Roboto', Arial, sans-serif;
+  background: #f4f6fa;
+}
+
+h1 {
+  color: #1976d2;
+}
